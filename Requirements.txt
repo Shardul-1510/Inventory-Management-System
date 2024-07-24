@@ -1,0 +1,7 @@
+Operating System : Windows 10 or any 
+Application Server : Tomcat5.0/6.X 
+Front End : Java, swing 
+Database : MYSQL 
+Repository : GitHub
+Jar : mysql-connector-java-8.0.11
+Server : Xampp Control Panel v3.3.0
