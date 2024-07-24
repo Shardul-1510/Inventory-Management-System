@@ -56,6 +56,19 @@ Provides a printable format for customers to keep records of their transactions.
 Gives inventory owners visibility into received orders and their details.
 Helps manage and fulfill customer orders efficiently.
 
+## User Interface
+![LoginPage](https://github.com/user-attachments/assets/779cc6cd-0b84-453d-bfc1-806105c7930e)
+![Registration](https://github.com/user-attachments/assets/8e09e191-b541-4307-8496-91830c228d71)
+![Welcome](https://github.com/user-attachments/assets/b662e79b-f326-4edb-b5d9-6f6b00ba2689)
+![AddProduct](https://github.com/user-attachments/assets/1e88214a-97b8-4f92-a6b7-89dac75c0b3e)
+![SearchProduct](https://github.com/user-attachments/assets/447a9136-e99d-4fc6-adf3-e88863383a2d)
+![Display Inventory](https://github.com/user-attachments/assets/1bb7786a-7c6d-4b28-ae83-32439dc2ee77)
+![ReturnProduct](https://github.com/user-attachments/assets/1b234eb5-618a-4135-9d87-815c822f2bee)
+![PurchaseProduct](https://github.com/user-attachments/assets/30cf3a84-dc7d-4fcf-a529-9086dc5157d2)
+![BillGeneration](https://github.com/user-attachments/assets/362b682b-a001-48c2-8bbc-11710c5689d4)
+![OrderDisplay](https://github.com/user-attachments/assets/a3c20407-2437-4ef7-936a-f9a2ac7ffe4d)
+
+
 
 ## Technologies Used
 - Java
